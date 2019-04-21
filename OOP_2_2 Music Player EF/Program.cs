@@ -16,7 +16,7 @@ namespace OOP_2_2_Music_Player_EF
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FormAuth());
         }
     }
 }
